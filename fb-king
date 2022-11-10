@@ -70,7 +70,7 @@ def log_select():
     elif sel == '2':
         log_fb()
     elif sel == '5':
-        os.system('xdg-open https://youtube.com/channel/UCqeTuJfmm3vOhcN5A3CXJ8g')
+        os.system('xdg-open ')
     elif sel == '6':
         os.system('exit')
     else:
